@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkyLoLand01/SkyFinder/main/SkyAutoFarmFruit"))()
